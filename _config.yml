@@ -50,5 +50,5 @@ menu_external:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: 
-locale: en_GB
+baseurl: pires810.github.io
+locale: zh_CN
