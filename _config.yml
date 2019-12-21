@@ -39,16 +39,12 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
- - title: OleVik.me
-   url: "http://olevik.me/"
- - title: Research Gate
-   url: "https://www.researchgate.net/profile/Ole_Vik"
- - title: LinkedIn
-   url: "https://no.linkedin.com/in/olehhvik"
- - title: Twitter
-   url: "https://twitter.com/olehhv"
+ - title: School of Informatics
+   url: "https://information.xmu.edu.cn/"
+ - title: Xiamen University
+   url: "https://www.xmu.edu.cn/"
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: pires810.github.io
+baseurl: pires810.github.io/personal-academic-website
 locale: zh_CN
