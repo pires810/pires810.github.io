@@ -1,11 +1,14 @@
 ---
-title: "About me"
+title: "About Me"
 summary: "About this page."
-date: 2016-04-13
+date: 2019-12-21
 layout: default
 ---
 
-I'm an associate professor in School of Informatics of Xiamen University. My research interests are wireless communications and signal processing, with special focus on underwater acoustic communications, including algorithm design, system development and performance analysis.
+I'm an Associate Professor in School of Informatics of Xiamen University.
+My research interests are wireless communications and signal processing, with special focus on underwater acoustic communications, including algorithm design, system development and performance analysis.
+
+I got PhD degree from University of Connecticut, supervised by [Prof. Shengli Zhou](https://www.ee.uconn.edu/shengli-zhou/). 
 
 ## Features
 - Minimal, clean design
@@ -129,5 +132,3 @@ To find the right page-link (`#somethingonthepage`) you open the page, hover a h
 
 Note that these links must be encapsulated in quotes in the lists in `_config.yml`, or they will be interpreted as code-comments.
 
-### Development
-Written in [Jekyll](http://jekyllrb.com/), structured with [Bootstrap v4](http://getbootstrap.com/), styled with [plain CSS](http://www.css3-tutorial.net/introduction/what-is-css/). The Jekyll-output (in the `_site`-folder when generated) can be hosted anywhere (static files). For further development, see [Jekyll Tips](http://jekyll.tips/) and [GitHub Pages Setup Guide](http://jmcglone.com/guides/github-pages/).
