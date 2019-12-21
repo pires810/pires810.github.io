@@ -1,11 +1,11 @@
 ---
-title: "Home"
+title: "About me"
 summary: "About this page."
 date: 2016-04-13
 layout: default
 ---
 
-A skeleton-site for a personal academic website, written in Jekyll for hosting with GitHub Pages.
+I'm an associate professor in School of Informatics of Xiamen University. My research interests are wireless communications and signal processing, with special focus on underwater acoustic communications, including algorithm design, system development and performance analysis.
 
 ## Features
 - Minimal, clean design
