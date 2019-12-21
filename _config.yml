@@ -39,6 +39,8 @@ menu:
  - page: Accolades
    url: /accolades
 menu_external:
+ - title: My Google Scholar Page
+   url: "https://scholar.google.com/citations?user=SlvBa5cAAAAJ&hl=en"
  - title: School of Informatics
    url: "https://information.xmu.edu.cn/"
  - title: Xiamen University
