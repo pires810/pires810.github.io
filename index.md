@@ -11,6 +11,6 @@ My research interests are wireless communications and signal processing, with sp
 
 I got PhD degree from University of Connecticut, supervised by [Prof. Shengli Zhou](https://www.ee.uconn.edu/shengli-zhou/) (IEEE Fellow). Previously, I worked in College of Underwater Acoustic Engineering, Harbin Engineering University, and AquaSeNT (USA). 
 
-
+I'm an associate editor for the IEEE Open Journal of Communications Society. I serve as a technical reviewer for many journals and conferences, and I received the IEEE Communications Society's Exemplary Reviewer Award for the IEEE Communications Letters in 2013.
 
 
