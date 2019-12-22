@@ -26,6 +26,8 @@ menu:
       url: "#education"
  - page: Teaching
    url: /teaching
+ - page: Academic Service
+   url: /academic_service
 menu_external:
  - title: My Google Scholar Page
    url: "https://scholar.google.com/citations?user=SlvBa5cAAAAJ&hl=en"
