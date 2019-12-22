@@ -14,9 +14,10 @@ experience:
     description: Underwater acoustic communication modem design, development and performance test.
 education:
   - years: 2009-2014
-    name: PhD’s Degree in Electrical Engineering
+    name: PhD Degree in Electrical Engineering
     location: University of Connecticut
-    description: Adivisor Shengli Zhou.
+    description: Adivisor. Shengli Zhou.
+    Thesis. 
   - years: 2010-2013
     name: Bachelor’s Degree in Political Economy
     location: University of Bergen
