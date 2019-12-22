@@ -8,7 +8,9 @@ layout: default
 '*' corresponding author.
 
 ## Journal papers
-[6] Y. Chen, Z.-H.Wang, L.Wan, H. Zhou, S. Zhou, X.-M. Xu, “OFDM Modulated Dynamic Coded Cooperation in Underwater Acoustic Channels,” IEEE Journal of Oceanic Engineering, vol. 40, no. 1, pp. 159-168, 2015. [10.1109/JOE.2014.2304254](10.1109/JOE.2014.2304254).
+[7] L.Wan, H. Zhou, X. Xu, Y. Huang, S. Zhou, Z. Shi, and J-H. Cui, “Adaptive Modulation and Coding for Underwater Acoustic OFDM,” IEEE Journal of Oceanic Engineering, vol. 40, no. 2, pp. 327-336, 2015. [10.1109/JOE.2014.2323365](https://doi.org/10.1109/JOE.2014.2323365).
+
+[6] Y. Chen, Z.-H.Wang, L.Wan, H. Zhou, S. Zhou, X.-M. Xu, “OFDM Modulated Dynamic Coded Cooperation in Underwater Acoustic Channels,” IEEE Journal of Oceanic Engineering, vol. 40, no. 1, pp. 159-168, 2015. [10.1109/JOE.2014.2304254](https://doi.org/10.1109/JOE.2014.2304254).
 
 [5] Y. Huang, L. Wan, S. Zhou, Z.-H. Wang, J.-Z. Huang, “Comparison of Sparse Recovery Algorithms for Channel Estimation in Underwater Acoustic OFDM with Data-Driven Sparsity Learning,” Elsevier Journal on Physical Communication, vol. 13, Part C, pp.156-167, 2014. [https://doi.org/10.1016/j.phycom.2014.08.001](https://doi.org/10.1016/j.phycom.2014.08.001).
 
