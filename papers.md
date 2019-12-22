@@ -8,7 +8,8 @@ layout: default
 '*' corresponding author.
 
 ## Journal papers
-[1] L. Wan, Z.-H. Wang, S. Zhou, T.C. Yang, and Z. Shi, "Performance Comparison of Doppler Scale Estimation Methods for Underwater Acoustic OFDM," Journal of Electrical and Computer Engineering, vol. 2012, Article ID 703243, 11 pages, 2012. [doi:10.1155/2012/703243]{https://dl.acm.org/citation.cfm?id=2332719}.
+[2] X. Xu, Z.-H. Wang, S. Zhou, and L. Wan, “Parameterizing Both Path Amplitude and Delay Variations of Underwater Acoustic Channels for Block Decoding of Orthogonal Frequency Division Multiplexing,” Journal of the Acoustical Society of America, vol.131, no. 6, pp. 4672-4679, June 2012. [doi: 10.1121/1.4707460]({https://asa.scitation.org/doi/full/10.1121/1.4707460}).
+[1] L. Wan, Z.-H. Wang, S. Zhou, T.C. Yang, and Z. Shi, "Performance Comparison of Doppler Scale Estimation Methods for Underwater Acoustic OFDM," Journal of Electrical and Computer Engineering, vol. 2012, Article ID 703243, 11 pages, 2012. [doi:10.1155/2012/703243]({https://dl.acm.org/citation.cfm?id=2332719}).
 
 ## Conference papers
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna. Aenean blandit, ligula ac faucibus posuere, felis est consequat est, id mollis ligula velit id erat. Vivamus in ullamcorper ex, nec faucibus diam. Aenean eros purus, elementum sed nunc vitae, faucibus semper nibh. In ac nisl vitae massa scelerisque sagittis a elementum lectus.
