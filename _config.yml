@@ -17,8 +17,6 @@ menu:
       url: "#project-two"
     - title: "Project Three"
       url: "#project-three"
-    - title: "Project Four"
-      url: "#project-four"
  - page: Curriculum Vitae
    url: /cv
    links:
