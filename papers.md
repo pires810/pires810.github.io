@@ -39,4 +39,5 @@ layout: default
 [1] L. Wan, Z.-H. Wang, S. Zhou, T.C. Yang, and Z. Shi, "Performance Comparison of Doppler Scale Estimation Methods for Underwater Acoustic OFDM," Journal of Electrical and Computer Engineering, vol. 2012, Article ID 703243, 11 pages, 2012. [http://dx.doi.org/10.1155/2012/703243](http://dx.doi.org/10.1155/2012/703243).
 
 ## Conference papers
+[1] H. Yan, S. Zhou, Z. Shi, J-H. Cui, L. Wan, J. Huang, and H. Zhou, "DSP implementation of SISO and MIMO OFDM acoustic modems," OCEANS'10 IEEE SYDNEY, Sydney, NSW, 2010, pp. 1-6. [10.1109/OCEANSSYD.2010.5603887](https://doi.org/10.1109/OCEANSSYD.2010.5603887).
 
