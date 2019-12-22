@@ -4,7 +4,7 @@ summary: "Lei Wan's Resume"
 date: 2019-12-22
 layout: cv
 ---
-## Experience:
+experience:
   - years: 2019 -
     name: Associate Professor
     location: School of Informatics, Xiamen University
@@ -15,8 +15,7 @@ layout: cv
     name: Senior Design Engineer
     location: Aquatic Sensor Network Technology (AquaSeNT), USA
     description: Underwater acoustic communication modem design, development and performance test.
-
-## Education:
+education:
   - years: 2009 - 2014
     name: PhD Degree in Electrical Engineering
     location: University of Connecticut
