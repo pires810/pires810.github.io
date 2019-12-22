@@ -5,18 +5,13 @@ experience:
   - years: Oct. 2019-
     name: Associate Professor
     location: School of Informatics, Xiamen University
-  - years: 2015-
-    name: Substitute Teacher
-    location: Pedagogisk Vikarsentral
-    description: Teaching grades 1 to 10 in Norwegian, maths, English, science, religion and ethics, as well as physical exercise.
-  - years: 2014-2015
-    name: Seminar Instructor
-    location: University of Bergen
-    description: "Prepared structure and topical content of the seminars, and held seminar meetings in both Norwegian and English for students enrolled in the Bachelor’s Course in Comparative Politics. Courses: Political Economy (5 groups), Bachelor Essay in Comparative Politics (7 groups), Perspectives and Methods of the Social Sciences (2 groups)."
-  - years: 2013, 2014, 2015
-    name: Customer Service Representative
-    location: Sixt Norway
-    description: Customer Service, logistics, preparation of rental cars.
+  - years: Jun. 2017-Sep. 2019
+    name: Associate Professor
+    location: College of Underwater Acoustic Engineering, Harbin Engineering University
+  - years: Mar. 2014-Jan. 2017
+    name: Senior Design Engineer
+    location: Aquatic Sensor Network Technology (AquaSeNT), USA
+    description: Underwater acoustic communication modem design, development and performance test.
 education:
   - years: 2013-2015
     name: Master’s Degree in Comparative Politics
