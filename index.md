@@ -5,6 +5,8 @@ date: 2019-12-21
 layout: default
 ---
 
+![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
+
 I'm an Associate Professor in School of Informatics of Xiamen University. I'm in Department of Information and Communication Engineering and Key Laboratory of Underwater Acoustic Communication and Marine Information Technology (Xiamen University), Ministry of Education.
 
 My research interests are wireless communications and signal processing, with special focus on underwater acoustic communications, including algorithm design, system development and performance analysis.
@@ -13,4 +15,3 @@ I got PhD degree from University of Connecticut, supervised by [Prof. Shengli Zh
 
 I'm an associate editor for the IEEE Open Journal of Communications Society. I serve as a technical reviewer for many journals and conferences, and I received the IEEE Communications Society's Exemplary Reviewer Award for the IEEE Communications Letters in 2013.
 
-![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
