@@ -1,8 +1,8 @@
 ---
-title: "CV"
+title: 
 summary: "Lei Wan's Resume"
 date: 2019-12-22
-layout: default
+layout: cv
 ---
 ## Experience:
   - years: 2019 -
