@@ -5,7 +5,7 @@ date: 2019-12-22
 layout: default
 ---
 
-* corresponding author.
+' * ' corresponding author.
 
 ## Journal papers
 [15] L. Wan, H. Jia, F. Zhou, M. Muzzammil, T. Li, and Y. Huang, "Fine Doppler Scale Estimations for An Underwater Acoustic CP-OFDM System," Signal Processing, 2019. [https://doi.org/10.1016/j.sigpro.2019.107439](https://doi.org/10.1016/j.sigpro.2019.107439)
