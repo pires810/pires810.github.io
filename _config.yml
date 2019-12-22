@@ -4,10 +4,10 @@ menu:
  - page: Papers
    url: /papers
    links:
-    - title: Working papers
-      url: "#working-papers"
-    - title: Published papers
-      url: "#published-papers"
+    - title: Journal papers
+      url: "#journal-papers"
+    - title: Conference papers
+      url: "#conference-papers"
  - page: Research Projects
    url: /research
    links:
