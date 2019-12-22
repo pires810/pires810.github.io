@@ -39,5 +39,22 @@ layout: default
 [1] L. Wan, Z.-H. Wang, S. Zhou, T.C. Yang, and Z. Shi, "Performance Comparison of Doppler Scale Estimation Methods for Underwater Acoustic OFDM," Journal of Electrical and Computer Engineering, vol. 2012, Article ID 703243, 11 pages, 2012. [http://dx.doi.org/10.1155/2012/703243](http://dx.doi.org/10.1155/2012/703243).
 
 ## Conference papers
+[9] G. Qiao, Y. Xiao, L. Wan* and X. Qiang, "Analysis of Effective Signal to Noise Ratio Performance of a Typical Underwater Acoustic OFDM System," OCEANS 2018 MTS/IEEE Charleston, Charleston, SC, 2018, pp. 1-6.
+ [10.1109/OCEANS.2018.8604665](https://doi.org/10.1109/OCEANS.2018.8604665)
+
+[8] G. Qiao, X. Qiang, L. Wan* and Y. Xiao, "Chirp Z-Transform Based Sparse Channel Estimation for Underwater Acoustic OFDM in Clustered Channels," OCEANS 2018 MTS/IEEE Charleston, Charleston, SC, 2018, pp. 1-6. [10.1109/OCEANS.2018.8604692](https://doi.org/10.1109/OCEANS.2018.8604692)
+
+[7] G. Qiao, Z. Babar, L. Ma, L. Wan, X. Qing, X. Li, and M. Bilal, "Shallow water acoustic channel modeling and MIMO-OFDM simulations," 2018 15th International Bhurban Conference on Applied Sciences and Technology (IBCAST), Islamabad, 2018, pp. 709-715. [10.1109/IBCAST.2018.8312300](https://doi.org/10.1109/IBCAST.2018.8312300)
+
+[6] Y. Zhang, Y. Huang, L. Wan, H. Zhou, S. Zhou, X. Shen, and H. Wang, "Adaptive OFDMA for downlink underwater acoustic communications," 2014 Oceans - St. John's, St. John's, NL, 2014, pp. 1-5. [10.1109/OCEANS.2014.7003120](https://doi.org/10.1109/OCEANS.2014.7003120).
+
+[5] Z. Peng et al., "Ocean-TUNE UCONN testbed: A technology incubator for underwater communication and networking," 2014 Underwater Communications and Networking (UComms), Sestri Levante, 2014, pp. 1-4. [10.1109/UComms.2014.7017140](https://doi.org/10.1109/UComms.2014.7017140).
+
+[4] L.Wan, H. Zhou, X. Xu, Y. Huang, S. Zhou, Z. Shi, and J-H. Cui, “Field Tests of Adaptive Modulation and Coding for Underwater Acoustic OFDM,” in Proc. of the Eighth ACM International Conference on Underwater Networks and Systems (WUWNet), Kaohsiung, Taiwan, Nov. 2013. [10.1145/2532378.2532414](https://doi.org/10.1145/2532378.2532414).
+
+[3] Y. Chen, H. Sun, L. Wan, Z. Wang, S. Zhou and X. Xu, "Dynamic network coded cooperative OFDM for underwater data collection," 2012 Oceans, Hampton Roads, VA, 2012, pp. 1-4. [10.1109/OCEANS.2012.6404899](https://doi.org/10.1109/OCEANS.2012.6404899).
+
+[2] L. Wan, S. Hurst, Z. Wang, S. Zhou, Z. Shi and S. Roy, "Joint linear precoding and nonbinary LDPC coding for underwater acoustic OFDM," 2012 Oceans, Hampton Roads, VA, 2012, pp. 1-5. [10.1109/OCEANS.2012.6404972](https://doi.org/10.1109/OCEANS.2012.6404972).
+
 [1] H. Yan, S. Zhou, Z. Shi, J-H. Cui, L. Wan, J. Huang, and H. Zhou, "DSP implementation of SISO and MIMO OFDM acoustic modems," OCEANS'10 IEEE SYDNEY, Sydney, NSW, 2010, pp. 1-6. [10.1109/OCEANSSYD.2010.5603887](https://doi.org/10.1109/OCEANSSYD.2010.5603887).
 
