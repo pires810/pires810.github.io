@@ -26,10 +26,6 @@ menu:
       url: "#experience"
     - title: Education
       url: "#education"
-    - title: Positions
-      url: "#positions"
-    - title: Miscellaneous
-      url: "#miscellaneous"
  - page: Teaching
    url: /teaching
 menu_external:
