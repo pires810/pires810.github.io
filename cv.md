@@ -16,10 +16,10 @@ education:
   - years: 2009-2014
     name: PhD Degree in Electrical Engineering
     location: University of Connecticut
-    description: Supervised by Prof Shengli Zhou; thesis Underwater Acoustic OFDM Algorithm Design, DSP Implementation, and Field Performance.
-  - years: 2010-2013
-    name: Bachelor’s Degree in Political Economy
-    location: University of Bergen
+    description: Supervised by Prof Shengli Zhou. Thesis "Underwater Acoustic OFDM Algorithm Design, DSP Implementation, and Field Performance".
+  - years: 2006-2009
+    name: Master’s Degree in Signal and Information Processing
+    location: Beijing University of Posts and Telecommunications
     description: Includes statistics and maths. Bachelor essay titled "Electoral Implications of the Rational Choice Theory".
   - years: 2009-2010
     name: Diploma
