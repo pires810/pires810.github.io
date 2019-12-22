@@ -1,6 +1,8 @@
 ---
 title: CV
-
+summary: "Lei Wan's Resume"
+cv_title: Lei Wan
+experience:
   - years: 2015-
     name: Research Assistant
     location: Norwegian School of Economics
