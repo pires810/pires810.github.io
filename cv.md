@@ -1,9 +1,6 @@
 ---
 title: 
 summary: "Lei Wan's Resume"
-date: 2019-12-22
-layout: cv
----
 experience:
   - years: 2019 -
     name: Associate Professor
@@ -26,3 +23,5 @@ education:
   - years: 2002 - 2006
     name: Bachelor’s Degree in Electronic Information Engineering
     location: Tianjin University
+layout: cv
+---
