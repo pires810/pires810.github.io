@@ -1,8 +1,6 @@
 name: Lei Wan
 description: Lei Wan's website
 menu:
- - page: About
-   url: /about
  - page: Papers
    url: /papers
    links:
@@ -34,10 +32,6 @@ menu:
       url: "#miscellaneous"
  - page: Teaching
    url: /teaching
- - page: Media
-   url: /media
- - page: Accolades
-   url: /accolades
 menu_external:
  - title: My Google Scholar Page
    url: "https://scholar.google.com/citations?user=SlvBa5cAAAAJ&hl=en"
