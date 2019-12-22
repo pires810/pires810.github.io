@@ -13,4 +13,4 @@ I got PhD degree from University of Connecticut, supervised by [Prof. Shengli Zh
 
 I'm an associate editor for the IEEE Open Journal of Communications Society. I serve as a technical reviewer for many journals and conferences, and I received the IEEE Communications Society's Exemplary Reviewer Award for the IEEE Communications Letters in 2013.
 
-
+![Researcher Portrait](assets/images/ole.jpg "Ole Vik")
