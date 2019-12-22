@@ -16,7 +16,7 @@ education:
   - years: 2009-2014
     name: PhD Degree in Electrical Engineering
     location: University of Connecticut
-    description: Supervised by Prof Shengli Zhou, Thesis Underwater Acoustic OFDM Algorithm Design, DSP Implementation, and Field Performance.
+    description: Supervised by Prof Shengli Zhou; thesis Underwater Acoustic OFDM Algorithm Design, DSP Implementation, and Field Performance.
   - years: 2010-2013
     name: Bachelor’s Degree in Political Economy
     location: University of Bergen
