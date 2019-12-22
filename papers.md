@@ -22,11 +22,11 @@ layout: default
 
 [9] Y. Zhang, Y. Huang, L. Wan, S. Zhou, X. Shen, and H. Wang, “Adaptive OFDMA with Partial CSI for Downlink Underwater Acoustic Communications,” Journal of Communications and Networks, vol. 18, no. 3, pp. 387-396, 2016. [10.1109/JCN.2016.000054](https://doi.org/10.1109/JCN.2016.000054)
 
-[8] X. Cai, L.Wan, Y. Huang, S. Zhou, and Z. Shi, “Further Results on Multicarrier MFSK Based Underwater Acoustic Communications,” Elsevier Journal on Physical Communication, vol. 18, Part 1, pp. 15-27, 2016. [https://doi.org/10.1016/j.phycom.2015.12.001](https://doi.org/10.1016/j.phycom.2015.12.001).
+[8] X. Cai, L. Wan, Y. Huang, S. Zhou, and Z. Shi, “Further Results on Multicarrier MFSK Based Underwater Acoustic Communications,” Elsevier Journal on Physical Communication, vol. 18, Part 1, pp. 15-27, 2016. [https://doi.org/10.1016/j.phycom.2015.12.001](https://doi.org/10.1016/j.phycom.2015.12.001).
 
-[7] L.Wan, H. Zhou, X. Xu, Y. Huang, S. Zhou, Z. Shi, and J-H. Cui, “Adaptive Modulation and Coding for Underwater Acoustic OFDM,” IEEE Journal of Oceanic Engineering, vol. 40, no. 2, pp. 327-336, 2015. [10.1109/JOE.2014.2323365](https://doi.org/10.1109/JOE.2014.2323365).
+[7] L. Wan, H. Zhou, X. Xu, Y. Huang, S. Zhou, Z. Shi, and J-H. Cui, “Adaptive Modulation and Coding for Underwater Acoustic OFDM,” IEEE Journal of Oceanic Engineering, vol. 40, no. 2, pp. 327-336, 2015. [10.1109/JOE.2014.2323365](https://doi.org/10.1109/JOE.2014.2323365).
 
-[6] Y. Chen, Z.-H.Wang, L.Wan, H. Zhou, S. Zhou, and X.-M. Xu, “OFDM Modulated Dynamic Coded Cooperation in Underwater Acoustic Channels,” IEEE Journal of Oceanic Engineering, vol. 40, no. 1, pp. 159-168, 2015. [10.1109/JOE.2014.2304254](https://doi.org/10.1109/JOE.2014.2304254).
+[6] Y. Chen, Z.-H.Wang, L. Wan, H. Zhou, S. Zhou, and X.-M. Xu, “OFDM Modulated Dynamic Coded Cooperation in Underwater Acoustic Channels,” IEEE Journal of Oceanic Engineering, vol. 40, no. 1, pp. 159-168, 2015. [10.1109/JOE.2014.2304254](https://doi.org/10.1109/JOE.2014.2304254).
 
 [5] Y. Huang, L. Wan, S. Zhou, Z.-H. Wang, and J.-Z. Huang, “Comparison of Sparse Recovery Algorithms for Channel Estimation in Underwater Acoustic OFDM with Data-Driven Sparsity Learning,” Elsevier Journal on Physical Communication, vol. 13, Part C, pp.156-167, 2014. [https://doi.org/10.1016/j.phycom.2014.08.001](https://doi.org/10.1016/j.phycom.2014.08.001).
 
@@ -48,9 +48,9 @@ layout: default
 
 [6] Y. Zhang, Y. Huang, L. Wan, H. Zhou, S. Zhou, X. Shen, and H. Wang, "Adaptive OFDMA for downlink underwater acoustic communications," 2014 Oceans - St. John's, St. John's, NL, 2014, pp. 1-5. [10.1109/OCEANS.2014.7003120](https://doi.org/10.1109/OCEANS.2014.7003120).
 
-[5] Z. Peng et al., "Ocean-TUNE UCONN testbed: A technology incubator for underwater communication and networking," 2014 Underwater Communications and Networking (UComms), Sestri Levante, 2014, pp. 1-4. [10.1109/UComms.2014.7017140](https://doi.org/10.1109/UComms.2014.7017140).
+[5] Z. Peng, L. Wei, Z. Wang, L. Wan, et al., "Ocean-TUNE UCONN testbed: A technology incubator for underwater communication and networking," 2014 Underwater Communications and Networking (UComms), Sestri Levante, 2014, pp. 1-4. [10.1109/UComms.2014.7017140](https://doi.org/10.1109/UComms.2014.7017140).
 
-[4] L.Wan, H. Zhou, X. Xu, Y. Huang, S. Zhou, Z. Shi, and J-H. Cui, “Field Tests of Adaptive Modulation and Coding for Underwater Acoustic OFDM,” in Proc. of the Eighth ACM International Conference on Underwater Networks and Systems (WUWNet), Kaohsiung, Taiwan, Nov. 2013. [10.1145/2532378.2532414](https://doi.org/10.1145/2532378.2532414).
+[4] L. Wan, H. Zhou, X. Xu, Y. Huang, S. Zhou, Z. Shi, and J-H. Cui, “Field Tests of Adaptive Modulation and Coding for Underwater Acoustic OFDM,” in Proc. of the Eighth ACM International Conference on Underwater Networks and Systems (WUWNet), Kaohsiung, Taiwan, Nov. 2013. [10.1145/2532378.2532414](https://doi.org/10.1145/2532378.2532414).
 
 [3] Y. Chen, H. Sun, L. Wan, Z. Wang, S. Zhou and X. Xu, "Dynamic network coded cooperative OFDM for underwater data collection," 2012 Oceans, Hampton Roads, VA, 2012, pp. 1-4. [10.1109/OCEANS.2012.6404899](https://doi.org/10.1109/OCEANS.2012.6404899).
 
