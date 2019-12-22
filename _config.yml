@@ -48,5 +48,5 @@ menu_external:
 mathjax: false
 markdown: kramdown
 encoding: utf-8
-baseurl: pires810.github.io/personal-academic-website
+baseurl: pires810.github.io/
 locale: zh_CN
