@@ -13,10 +13,11 @@ experience:
     location: Aquatic Sensor Network Technology (AquaSeNT), USA
     description: Underwater acoustic communication modem design, development and performance test.
 education:
-  - years: 2013-2015
-    name: Master’s Degree in Comparative Politics
-    location: University of Bergen
-    description: Includes qualitative and quantitative methods. Thesis written within the field of comparative political economy, titled "A changed welfare-state. Sweden through the 1980s, How the organization of labor unions and politics matter for economic performance", and graded as exceptional.
+  - years: 2009-2014
+    name: PhD’s Degree in Electrical Engineering
+    location: University of Connecticut
+    description: Adivisor: Prof. Shengli Zhou;  Thesis: Underwater Acoustic OFDM: Algorithm Design, DSP Implementation, and
+Field Performance.
   - years: 2010-2013
     name: Bachelor’s Degree in Political Economy
     location: University of Bergen
