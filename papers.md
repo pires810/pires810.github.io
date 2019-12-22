@@ -8,6 +8,10 @@ layout: default
 '*' corresponding author.
 
 ## Journal papers
+[9] Y. Zhang, Y. Huang, L. Wan, S. Zhou, X. Shen, and H. Wang, “Adaptive OFDMA with Partial CSI for Downlink Underwater Acoustic Communications,” Journal of Communications and Networks, vol. 18, no. 3, pp. 387-396, 2016. [10.1109/JCN.2016.000054](https://doi.org/10.1109/JCN.2016.000054)
+
+[8] X. Cai, L.Wan, Y. Huang, S. Zhou, Z. Shi, “Further Results on Multicarrier MFSK Based Underwater Acoustic Communications,” Elsevier Journal on Physical Communication, vol. 18, Part 1, pp. 15-27, 2016. [https://doi.org/10.1016/j.phycom.2015.12.001](https://doi.org/10.1016/j.phycom.2015.12.001).
+
 [7] L.Wan, H. Zhou, X. Xu, Y. Huang, S. Zhou, Z. Shi, and J-H. Cui, “Adaptive Modulation and Coding for Underwater Acoustic OFDM,” IEEE Journal of Oceanic Engineering, vol. 40, no. 2, pp. 327-336, 2015. [10.1109/JOE.2014.2323365](https://doi.org/10.1109/JOE.2014.2323365).
 
 [6] Y. Chen, Z.-H.Wang, L.Wan, H. Zhou, S. Zhou, X.-M. Xu, “OFDM Modulated Dynamic Coded Cooperation in Underwater Acoustic Channels,” IEEE Journal of Oceanic Engineering, vol. 40, no. 1, pp. 159-168, 2015. [10.1109/JOE.2014.2304254](https://doi.org/10.1109/JOE.2014.2304254).
