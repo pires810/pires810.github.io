@@ -1,9 +1,10 @@
 ---
-title: CV
+title: "CV"
 summary: "Lei Wan's Resume"
+date: 2019-12-22
 layout: default
 ---
-experience:
+## Experience:
   - years: 2019 -
     name: Associate Professor
     location: School of Informatics, Xiamen University
@@ -14,11 +15,12 @@ experience:
     name: Senior Design Engineer
     location: Aquatic Sensor Network Technology (AquaSeNT), USA
     description: Underwater acoustic communication modem design, development and performance test.
-education:
+
+## Education:
   - years: 2009 - 2014
     name: PhD Degree in Electrical Engineering
     location: University of Connecticut
-    description: Supervised by Prof. Shengli Zhou. Thesis "Underwater Acoustic OFDM, Algorithm Design, DSP Implementation, and Field Performance".
+    description: Supervised by Prof. Shengli Zhou. Thesis "Underwater Acoustic OFDM':' Algorithm Design, DSP Implementation, and Field Performance".
   - years: 2006 - 2009
     name: Master’s Degree in Signal and Information Processing
     location: Beijing University of Posts and Telecommunications
