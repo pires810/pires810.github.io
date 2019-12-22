@@ -2,13 +2,13 @@
 title: CV
 summary: "Lei Wan's Resume"
 experience:
-  - years: Oct. 2019 -
+  - years: 2019 -
     name: Associate Professor
     location: School of Informatics, Xiamen University
-  - years: Jun. 2017 - Sep. 2019
+  - years: 2017 - 2019
     name: Associate Professor
     location: College of Underwater Acoustic Engineering, Harbin Engineering University
-  - years: Mar. 2014 - Jan. 2017
+  - years: 2014 - 2017
     name: Senior Design Engineer
     location: Aquatic Sensor Network Technology (AquaSeNT), USA
     description: Underwater acoustic communication modem design, development and performance test.
