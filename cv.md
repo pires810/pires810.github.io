@@ -16,7 +16,7 @@ education:
   - years: 2009-2014
     name: PhD’s Degree in Electrical Engineering
     location: University of Connecticut
-    description: Adivisor:.
+    description: Adivisor: Shengli Zhou.
   - years: 2010-2013
     name: Bachelor’s Degree in Political Economy
     location: University of Bergen
