@@ -10,13 +10,6 @@ menu:
       url: "#conference-papers"
  - page: Research Projects
    url: /research
-   links:
-    - title: "Project One"
-      url: "#project-one"
-    - title: "Project Two"
-      url: "#project-two"
-    - title: "Project Three"
-      url: "#project-three"
  - page: Curriculum Vitae
    url: /cv
    links:
