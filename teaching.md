@@ -6,5 +6,5 @@ layout: default
 ---
 
 Graduate course
-  - Scientific Paper Writing for Information and Communication Engineering
+  * Scientific Paper Writing for Information and Communication Engineering
 
