@@ -7,7 +7,7 @@ layout: default
 
 * Member of IEEE
 
-* Associate Editor - IEEE Open Journal of Communications Society
+* Associate Editor: IEEE Open Journal of Communications Society
 
 * Reviewer
 
