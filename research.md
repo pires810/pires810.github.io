@@ -1,20 +1,9 @@
 ---
 title: "Research"
 summary: "About this page."
-date: 2016-04-13
+date: 2019-12-23
 layout: default
 ---
 
-"Research" introductory paragraph.
+* 2019~2021, National Natural Science Foundation of China, “Study of Transmission Energy Optimization for Underwater Acoustic Communications Based on Adaptive Modulation and Coding,” (Grant No. 40776022), 240K CNY, PI.
 
-## Project One
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
-
-## Project Two
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
-
-## Project Three
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
-
-## Project Four
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer luctus molestie libero id blandit. Ut condimentum urna eget cursus scelerisque. Proin bibendum finibus urna.
