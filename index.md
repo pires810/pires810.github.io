@@ -5,7 +5,7 @@ date: 2019-12-21
 layout: default
 ---
 
-        ![Researcher Portrait](assets/images/potrait_20.jpg "Lei Wan")
+      ![Researcher Portrait](assets/images/potrait_20.jpg "Lei Wan")
 
 * I'm an Associate Professor in School of Informatics of Xiamen University. I'm in Department of Information and Communication Engineering and Key Laboratory of Underwater Acoustic Communication and Marine Information Technology (Xiamen University), Ministry of Education.
 
