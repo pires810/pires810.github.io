@@ -15,5 +15,5 @@ layout: default
 
 * I'm an associate editor for the IEEE Open Journal of Communications Society. I serve as a technical reviewer for many journals and conferences, and I received the IEEE Communications Society's Exemplary Reviewer Award for the IEEE Communications Letters in 2013.
 
-* Looking for self-motivated Master students to our research on wireless communications, especially on the development of underwater acoustic communication systems.
+* Looking for self-motivated Master students to join our research on wireless communications, especially on the development of underwater acoustic communication systems.
 
