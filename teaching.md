@@ -5,8 +5,5 @@ date: 2019-12-22
 layout: default
 ---
 
+* Scientific Paper Writing for Information and Communication Engineering, Graduate course
 
-## Graduate Course
-* Scientific Paper Writing for Information and Communication Engineering
-
-## Undergraduate Course
