@@ -5,7 +5,7 @@ date: 2019-12-21
 layout: default
 ---
 
-![Researcher Portrait](assets/images/potrait_20.jpg "Lei Wan")
+  ![Researcher Portrait](assets/images/potrait_20.jpg "Lei Wan")
 
 * I'm an Associate Professor in School of Informatics of Xiamen University. I'm in Department of Information and Communication Engineering and Key Laboratory of Underwater Acoustic Communication and Marine Information Technology (Xiamen University), Ministry of Education.
 
@@ -15,5 +15,5 @@ layout: default
 
 * I'm an associate editor for the IEEE Open Journal of Communications Society. I serve as a technical reviewer for many journals and conferences, and I received the IEEE Communications Society's Exemplary Reviewer Award for the IEEE Communications Letters in 2013.
 
-* Looking for self-motivated Master students to join our research on wireless communications, especially on the development of underwater acoustic communication systems.
+* Looking for self-motivated students to join our research on wireless communications, especially on the development of underwater acoustic communication systems.
 
