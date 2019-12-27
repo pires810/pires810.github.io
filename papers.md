@@ -10,7 +10,7 @@ layout: default
 ## Journal papers
 [15] L. Wan, H. Jia, F. Zhou, M. Muzzammil, T. Li, and Y. Huang, "Fine Doppler Scale Estimations for An Underwater Acoustic CP-OFDM System," Signal Processing, vol. 170, 2020. [https://doi.org/10.1016/j.sigpro.2019.107439](https://doi.org/10.1016/j.sigpro.2019.107439)
 
-[14] G. Qiao, Y. Xiao, L. Wan*, X. Guo and H. Jia, "Analysis of SNR Metrics for a Typical Underwater Acoustic OFDM System," IEEE Access, 2019. [doi:10.1109/ACCESS.2019.2960304](https://doi.org/10.1109/ACCESS.2019.2960304)
+[14] G. Qiao, Y. Xiao, L. Wan*, X. Guo and H. Jia, "Analysis of SNR Metrics for a Typical Underwater Acoustic OFDM System," IEEE Access, vol. 7, pp. 183565-183579, 2019. [doi:10.1109/ACCESS.2019.2960304](https://doi.org/10.1109/ACCESS.2019.2960304)
 
 [13] M. Muzzammil, T. Ahmad, N. M. Khan, and L. Wan*, "Low cost, faster detection of cognitive radio through filter banks with bandpass sampling," Physical Communication, vol. 33, pp. 1-8, 2019. [https://doi.org/10.1016/j.phycom.2018.12.009.](https://doi.org/10.1016/j.phycom.2018.12.009)
 
