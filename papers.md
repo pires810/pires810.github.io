@@ -8,6 +8,10 @@ layout: default
 ' * ' corresponding author.
 
 ## Journal papers
+[17] M. Muzzammil, N. Ahmed, G. Qiao, I. Ullah and L. Wan, "Fundamentals and Advancements of Magnetic Field Communication for Underwater Wireless Sensor Networks," IEEE Transactions on Antennas and Propagation, [doi:10.1109/TAP.2020.3001451.](https://doi.org/10.1109/TAP.2020.3001451)
+
+[16] W. Yu, Y. Chen, L. Wan, X. Zhang, P. Zhu and X. Xu, "An Energy Optimization Clustering Scheme for Multi-Hop Underwater Acoustic Cooperative Sensor Networks," IEEE Access, vol. 8, pp. 89171-89184, 2020. [doi:10.1109/ACCESS.2020.2993544.](https://doi.org/10.1109/ACCESS.2020.2993544)
+
 [15] L. Wan, H. Jia, F. Zhou, M. Muzzammil, T. Li, and Y. Huang, "Fine Doppler Scale Estimations for An Underwater Acoustic CP-OFDM System," Signal Processing, vol. 170, 2020. [https://doi.org/10.1016/j.sigpro.2019.107439](https://doi.org/10.1016/j.sigpro.2019.107439)
 
 [14] G. Qiao, Y. Xiao, L. Wan*, X. Guo and H. Jia, "Analysis of SNR Metrics for a Typical Underwater Acoustic OFDM System," IEEE Access, vol. 7, pp. 183565-183579, 2019. [doi:10.1109/ACCESS.2019.2960304](https://doi.org/10.1109/ACCESS.2019.2960304)
