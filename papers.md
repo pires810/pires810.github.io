@@ -1,14 +1,16 @@
 ---
 title: 
 summary: "About this page."
-date: 2020-7-17
+date: 2022-2-23
 layout: default
 ---
 
 ' * ' corresponding author.
 
 ## Journal papers
-[17] M. Muzzammil, N. Ahmed, G. Qiao, I. Ullah and L. Wan, "Fundamentals and Advancements of Magnetic Field Communication for Underwater Wireless Sensor Networks," IEEE Transactions on Antennas and Propagation, [doi:10.1109/TAP.2020.3001451.](https://doi.org/10.1109/TAP.2020.3001451)
+[18] Y. Chen, J. Zhu, L. Wan, S. Huang, X. Zhang and X. Xu, "ACOA-AFSA Fusion Dynamic Coded Cooperation Routing for Different Scale Multi-Hop Underwater Acoustic Sensor Networks," IEEE Access, vol. 8, pp. 186773-186788, 2020. [doi:10.1109/ACCESS.2020.3029533.](https://doi.org/10.1109/ACCESS.2020.3029533)
+
+[17] M. Muzzammil, N. Ahmed, G. Qiao, I. Ullah and L. Wan, "Fundamentals and Advancements of Magnetic Field Communication for Underwater Wireless Sensor Networks," IEEE Transactions on Antennas and Propagation, vol. 68, no. 11, pp. 7555-7570, Nov. 2020. [doi:10.1109/TAP.2020.3001451.](https://doi.org/10.1109/TAP.2020.3001451)
 
 [16] W. Yu, Y. Chen, L. Wan, X. Zhang, P. Zhu and X. Xu, "An Energy Optimization Clustering Scheme for Multi-Hop Underwater Acoustic Cooperative Sensor Networks," IEEE Access, vol. 8, pp. 89171-89184, 2020. [doi:10.1109/ACCESS.2020.2993544.](https://doi.org/10.1109/ACCESS.2020.2993544)
 
