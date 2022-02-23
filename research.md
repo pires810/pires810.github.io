@@ -5,7 +5,13 @@ date: 2022-2-23
 layout: default
 ---
 
-* 2022~2025, National Natural Science Foundation of China, “Study of key technologies for underwater acoustic OFDM communications under different spreading channel conditions,” (Grant No. 62171394), 570K CNY, PI.
+* 2022~2025, National Natural Science Foundation of China, "Study of Key Technologies for Underwater Acoustic OFDM Communications under Different Spreading Channel Conditions," (Grant No. 62171394), 570K CNY, PI.
+
+* 2022~2025, National Natural Science Foundation of China, "Study of Key Technologies for Reliable and Dependable Communication and Network in Smart Ocean," (Grant No. U21A20444), 2600K CNY, participant.
+
+* 2021~2022, Project from a Research Institue, "Development of High Speed Acoustic Modem," 300K CNY, PI.
+
+* 2021~2023, National Key Research and Development Program of China, "General Services and Examplary Applications of Marine Big Data in Typical Sea Areas," (Grant No. 2021YFF0704000), 300K CNY, participant.
 
 * 2019~2022, National Natural Science Foundation of China, “Key Technologies for High-speed and Reliable Data Transmission between Underwater Equipment for Complex Marine Environments,” (Grant No. U1806201), 2780K CNY, participant.
 
