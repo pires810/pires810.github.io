@@ -1,9 +1,11 @@
 ---
 title: 
 summary: "About this page."
-date: 2019-12-23
+date: 2022-2-23
 layout: default
 ---
+
+* 2022~2025, National Natural Science Foundation of China, “Study of key technologies for underwater acoustic OFDM communications under different spreading channel conditions,” (Grant No. 62171394), 570K CNY, PI.
 
 * 2019~2022, National Natural Science Foundation of China, “Key Technologies for High-speed and Reliable Data Transmission between Underwater Equipment for Complex Marine Environments,” (Grant No. U1806201), 2780K CNY, participant.
 
