@@ -8,6 +8,17 @@ layout: default
 ' * ' corresponding author.
 
 ## Journal papers
+[23] Y. Chen, J. Zhu, L. Wan, X. Fang, F. Tong, and X. Xu, "Routing failure prediction and repairing for AUV-assisted underwater acoustic sensor networks in uncertain ocean environments," Applied Acoustics, vol. 186, Jan. 2022. [https://doi.org/10.1016/j.apacoust.2021.108479](https://doi.org/10.1016/j.apacoust.2021.108479)
+
+[22] G. Qiao, X. Qiang and L. Wan*, "Double Interpolation-Based Linear Fitting for OMP Channel Estimation in OFDM Systems," IEEE Communications Letters, vol. 25, no. 9, pp. 2908-2912, Sept. 2021. [https://doi.org/10.1109/LCOMM.2021.3093672](https://doi.org/10.1109/LCOMM.2021.3093672)
+
+[21] Y. Chen, W. Yu, X. Sun, L. Wan, Y. Tao, and X. Xu, "Environment-aware communication channel quality prediction for underwater acoustic transmissions: A machine learning method," Applied Acoustics, vol. 181, Oct. 2021. [https://doi.org/10.1016/j.apacoust.2021.108128](https://doi.org/10.1016/j.apacoust.2021.108128)
+
+[20] Y. Chen, K. Zheng, X. Fang, L. Wan, and X. Xu, "QMCR: A Q-Learning-Based Multi-Hop Cooperative Routing Protocol for Underwater Acoustic Sensor Networks," 
+China Communications, vol. 18, no. 8, pp. 224-236, 2021.
+
+[19] Y. Chen, Y. Tang, X. Fang, L. Wan, Y. Tao and X. Xu, "PB-ACR: Node Payload Balanced Ant Colony Optimal Cooperative Routing for Multi-Hop Underwater Acoustic Sensor Networks," IEEE Access, vol. 9, pp. 57165-57178, 2021. [doi:10.1109/ACCESS.2021.3072283.](https://doi.org/10.1109/ACCESS.2021.3072283)
+
 [18] Y. Chen, J. Zhu, L. Wan, S. Huang, X. Zhang and X. Xu, "ACOA-AFSA Fusion Dynamic Coded Cooperation Routing for Different Scale Multi-Hop Underwater Acoustic Sensor Networks," IEEE Access, vol. 8, pp. 186773-186788, 2020. [doi:10.1109/ACCESS.2020.3029533.](https://doi.org/10.1109/ACCESS.2020.3029533)
 
 [17] M. Muzzammil, N. Ahmed, G. Qiao, I. Ullah and L. Wan, "Fundamentals and Advancements of Magnetic Field Communication for Underwater Wireless Sensor Networks," IEEE Transactions on Antennas and Propagation, vol. 68, no. 11, pp. 7555-7570, Nov. 2020. [doi:10.1109/TAP.2020.3001451.](https://doi.org/10.1109/TAP.2020.3001451)
