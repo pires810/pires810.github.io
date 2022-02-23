@@ -1,7 +1,7 @@
 ---
 title: 
 summary: "About this page."
-date: 2020-7-17
+date: 2022-2-23
 layout: default
 ---
 
@@ -11,7 +11,7 @@ layout: default
 
 * Youth Associate Editor: Digital Ocean and Underwater Warfare (Journal in Chinese)
 
-* Co-chair: 2021 IEEE/CIC International Conference on Communications in China Workshop on Underwater Acoustic Communications and Marine Information Technology
+* Co-chair: 2021 IEEE/CIC International Conference on Communications in China (ICCC) Workshop on Underwater Acoustic Communications and Marine Information Technology
 
 * Poster Chair: 2021 The 15th International Conference on Underwater Networks & Systems (WUWNet'21)
 
