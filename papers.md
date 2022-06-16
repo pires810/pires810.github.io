@@ -8,6 +8,8 @@ layout: default
 ' * ' corresponding author.
 
 ## Journal papers
+[24] L. Wan, J. Zhu, E. Cheng and Z. Xu, "Joint CFO, Gridless Channel Estimation and Data Detection for Underwater Acoustic OFDM Systems," IEEE Journal of Oceanic Engineering, 2022. [https://doi.org/10.1109/JOE.2022.3162025](https://doi.org/10.1109/JOE.2022.3162025)
+
 [23] Y. Chen, J. Zhu, L. Wan, X. Fang, F. Tong, and X. Xu, "Routing failure prediction and repairing for AUV-assisted underwater acoustic sensor networks in uncertain ocean environments," Applied Acoustics, vol. 186, Jan. 2022. [https://doi.org/10.1016/j.apacoust.2021.108479](https://doi.org/10.1016/j.apacoust.2021.108479)
 
 [22] G. Qiao, X. Qiang and L. Wan*, "Double Interpolation-Based Linear Fitting for OMP Channel Estimation in OFDM Systems," IEEE Communications Letters, vol. 25, no. 9, pp. 2908-2912, Sept. 2021. [https://doi.org/10.1109/LCOMM.2021.3093672](https://doi.org/10.1109/LCOMM.2021.3093672)
