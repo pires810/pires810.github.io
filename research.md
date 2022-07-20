@@ -1,9 +1,10 @@
 ---
 title: 
 summary: "About this page."
-date: 2022-6-16
+date: 2022-7-20
 layout: default
 ---
+* 2022~2024, Stable Supporting Fund of Acoustic Science and Technology Laboratory Sub-project, “Power Allocation Optimization of Non-coherent FSK for Underwater Acoustic Communication,” (Grant No. JCKYS2022604SSJS001), 200K CNY, PI.
 
 * 2022~2025, National Natural Science Foundation of China, "Study of Key Technologies for Underwater Acoustic OFDM Communications under Different Spreading Channel Conditions," (Grant No. 62171394), 570K CNY, PI.
 
