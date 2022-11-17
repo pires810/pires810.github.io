@@ -8,9 +8,9 @@ layout: default
 ' * ' corresponding author.
 
 ## Journal papers
-[25] J. Guo, S. Song, J. Liu, L. Wan, Y. Zhao and G. Han, "An Efficient Medium Access Control Scheme Based on MC-CDMA for Mobile Underwater Acoustic Networks," IEEE Network, vol. 36, no. 3, pp. 167-173, May/June 2022. [https://doi.org/10.1109/MNET.123.2100332](https://doi.org/10.1109/MNET.123.2100332)
+[25] L. Wan, J. Zhu, E. Cheng and Z. Xu, "Joint CFO, Gridless Channel Estimation and Data Detection for Underwater Acoustic OFDM Systems," IEEE Journal of Oceanic Engineering, vol. 47, no. 4, pp. 1215-1230, Oct. 2022. [https://doi.org/10.1109/JOE.2022.3162025](https://doi.org/10.1109/JOE.2022.3162025)
 
-[24] L. Wan, J. Zhu, E. Cheng and Z. Xu, "Joint CFO, Gridless Channel Estimation and Data Detection for Underwater Acoustic OFDM Systems," IEEE Journal of Oceanic Engineering, 2022. [https://doi.org/10.1109/JOE.2022.3162025](https://doi.org/10.1109/JOE.2022.3162025)
+[24] J. Guo, S. Song, J. Liu, L. Wan, Y. Zhao and G. Han, "An Efficient Medium Access Control Scheme Based on MC-CDMA for Mobile Underwater Acoustic Networks," IEEE Network, vol. 36, no. 3, pp. 167-173, May/June 2022. [https://doi.org/10.1109/MNET.123.2100332](https://doi.org/10.1109/MNET.123.2100332)
 
 [23] Y. Chen, J. Zhu, L. Wan, X. Fang, F. Tong, and X. Xu, "Routing failure prediction and repairing for AUV-assisted underwater acoustic sensor networks in uncertain ocean environments," Applied Acoustics, vol. 186, Jan. 2022. [https://doi.org/10.1016/j.apacoust.2021.108479](https://doi.org/10.1016/j.apacoust.2021.108479)
 
