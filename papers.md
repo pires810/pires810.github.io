@@ -8,6 +8,8 @@ layout: default
 ' * ' corresponding author.
 
 ## Journal papers
+[26] X. Zhu, Y. Chen*, L. Wan*, W. Huang, G. Lu, and X. Xu, "Dynamic layered routing protocols based on BP-NN for underwater acoustic sensor networks," Applied Acoustics, vol. 211, Aug. 2023. [https://doi.org/10.1016/j.apacoust.2023.109454](https://doi.org/10.1016/j.apacoust.2023.109454)
+
 [25] L. Wan, J. Zhu, E. Cheng and Z. Xu, "Joint CFO, Gridless Channel Estimation and Data Detection for Underwater Acoustic OFDM Systems," IEEE Journal of Oceanic Engineering, vol. 47, no. 4, pp. 1215-1230, Oct. 2022. [https://doi.org/10.1109/JOE.2022.3162025](https://doi.org/10.1109/JOE.2022.3162025)
 
 [24] J. Guo, S. Song, J. Liu, L. Wan, Y. Zhao and G. Han, "An Efficient Medium Access Control Scheme Based on MC-CDMA for Mobile Underwater Acoustic Networks," IEEE Network, vol. 36, no. 3, pp. 167-173, May/June 2022. [https://doi.org/10.1109/MNET.123.2100332](https://doi.org/10.1109/MNET.123.2100332)
@@ -60,6 +62,8 @@ China Communications, vol. 18, no. 8, pp. 224-236, 2021.
 [1] L. Wan, Z.-H. Wang, S. Zhou, T.C. Yang, and Z. Shi, "Performance Comparison of Doppler Scale Estimation Methods for Underwater Acoustic OFDM," Journal of Electrical and Computer Engineering, vol. 2012, Article ID 703243, 11 pages, 2012. [http://dx.doi.org/10.1155/2012/703243](http://dx.doi.org/10.1155/2012/703243).
 
 ## Conference papers
+[12] Z. Zhu, L. Wan, E. Cheng and F. Xu, "Bidirectional Equalization Receiver for Underwater Acoustic OFDM Systems Using Frequency-Domain Oversampling," 2022 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Xi'an, China, 2022, pp. 1-6. [10.1109/ICSPCC55723.2022.9984479](https://doi.org/10.1109/ICSPCC55723.2022.9984479)
+
 [11] Y. Zhao, L. Wan*, E. Cheng and F. Xu, "Adaptive Power Allocation for Non-coherent FSK in Time-varying Underwater Acoustic Communication Channels," 2022 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Xi'an, China, 2022, pp. 1-6. [10.1109/ICSPCC55723.2022.9984454](https://doi.org/10.1109/ICSPCC55723.2022.9984454)
 
 [10] M. Muzzammil, H. Jia, L. Wan and G. Qiao, "Further Interpolation Methods for Doppler Scale Estimation in Underwater Acoustic CP-OFDM Systems," IEEE 2nd International Conference on Information Communication and Signal Processing (ICICSP), Weihai, 2019, pp. 295-300. [10.1109/ICICSP48821.2019.8958577](https://doi.org/10.1109/ICICSP48821.2019.8958577)
