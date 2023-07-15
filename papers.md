@@ -60,6 +60,8 @@ China Communications, vol. 18, no. 8, pp. 224-236, 2021.
 [1] L. Wan, Z.-H. Wang, S. Zhou, T.C. Yang, and Z. Shi, "Performance Comparison of Doppler Scale Estimation Methods for Underwater Acoustic OFDM," Journal of Electrical and Computer Engineering, vol. 2012, Article ID 703243, 11 pages, 2012. [http://dx.doi.org/10.1155/2012/703243](http://dx.doi.org/10.1155/2012/703243).
 
 ## Conference papers
+[11] Y. Zhao, L. Wan*, E. Cheng and F. Xu, "Adaptive Power Allocation for Non-coherent FSK in Time-varying Underwater Acoustic Communication Channels," 2022 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Xi'an, China, 2022, pp. 1-6. [10.1109/ICSPCC55723.2022.9984454](https://doi.org/10.1109/ICSPCC55723.2022.9984454)
+
 [10] M. Muzzammil, H. Jia, L. Wan and G. Qiao, "Further Interpolation Methods for Doppler Scale Estimation in Underwater Acoustic CP-OFDM Systems," IEEE 2nd International Conference on Information Communication and Signal Processing (ICICSP), Weihai, 2019, pp. 295-300. [10.1109/ICICSP48821.2019.8958577](https://doi.org/10.1109/ICICSP48821.2019.8958577)
 
 [9] G. Qiao, Y. Xiao, L. Wan* and X. Qiang, "Analysis of Effective Signal to Noise Ratio Performance of a Typical Underwater Acoustic OFDM System," OCEANS 2018 MTS/IEEE Charleston, Charleston, SC, 2018, pp. 1-6.
