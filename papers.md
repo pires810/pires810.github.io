@@ -8,7 +8,7 @@ layout: default
 ' * ' corresponding author.
 
 ## Journal papers
-[26] X. Zhu, Y. Chen{\*}, L. Wan{\*}, W. Huang, G. Lu, and X. Xu, "Dynamic layered routing protocols based on BP-NN for underwater acoustic sensor networks," Applied Acoustics, vol. 211, Aug. 2023. [https://doi.org/10.1016/j.apacoust.2023.109454](https://doi.org/10.1016/j.apacoust.2023.109454)
+[26] X. Zhu, Y. Chen\*, L. Wan\*, W. Huang, G. Lu, and X. Xu, "Dynamic layered routing protocols based on BP-NN for underwater acoustic sensor networks," Applied Acoustics, vol. 211, Aug. 2023. [https://doi.org/10.1016/j.apacoust.2023.109454](https://doi.org/10.1016/j.apacoust.2023.109454)
 
 [25] L. Wan, J. Zhu, E. Cheng and Z. Xu, "Joint CFO, Gridless Channel Estimation and Data Detection for Underwater Acoustic OFDM Systems," IEEE Journal of Oceanic Engineering, vol. 47, no. 4, pp. 1215-1230, Oct. 2022. [https://doi.org/10.1109/JOE.2022.3162025](https://doi.org/10.1109/JOE.2022.3162025)
 
