@@ -67,7 +67,7 @@ China Communications, vol. 18, no. 8, pp. 224-236, 2021.
 
 ## Conference papers
 [15] S. Xu, L. Wan*, Y. Chen and E. Cheng, "Deep Learning Based Impulsive Noise Mitigation for Underwater Acoustic OFDM Systems,"  in Proc. of the 17th International Conference on Underwater Networks & Systems 
- (WUWNet'23), Shenzhen, China, Nov. 2023. [10.1145/3631726.3631729](https://doi.org/10.1145/3631726.3631729).
+ (WUWNet'23), Shenzhen, China, Nov. 2023, pp. 1-5. [10.1145/3631726.3631729](https://doi.org/10.1145/3631726.3631729).
 
 [14] Z. Wang, L. Wan*, Y. Chen and E. Cheng, "Two-Step Interfrequency Interference Cancelation for Single-Carrier Underwater Acoustic Communications in Time-Varying Channels," 2023 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Zhengzhou, China, 2023, pp. 1-5. [10.1109/ICSPCC59353.2023.10400364](https://doi.org/10.1109/ICSPCC59353.2023.10400364)
 
