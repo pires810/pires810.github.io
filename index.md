@@ -1,7 +1,7 @@
 ---
 title: 
 summary: "About this page."
-date: 2019-12-21
+date: 2024-7-12
 layout: default
 ---
 
@@ -13,7 +13,7 @@ layout: default
 
 * I got PhD degree from University of Connecticut, supervised by [Prof. Shengli Zhou](https://www.ee.uconn.edu/shengli-zhou/) (IEEE Fellow). Previously, I worked in College of Underwater Acoustic Engineering, Harbin Engineering University, and AquaSeNT (USA). 
 
-* I'm a senior member of IEEE, an associate editor for the IEEE Open Journal of Communications Society & Journal of Marine Science and Engineering. I serve as a technical reviewer for many journals and conferences, and I received the IEEE Communications Society's Exemplary Reviewer Award for the IEEE Communications Letters in 2013.
+* I'm a senior member of IEEE. I serve as an associate editor for the IEEE Open Journal of Communications Society & Journal of Marine Science and Engineering, a technical reviewer for many journals and conferences.
 
 * Looking for self-motivated students to join our research on wireless communications, especially on the development of underwater acoustic communication systems.
 
