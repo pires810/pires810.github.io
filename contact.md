@@ -7,4 +7,4 @@ layout: default
 
 * Email: leiwan AT xmu DOT edu DOT cn
 
-* Office Address: 520 Research Building #2, Haiyun Campus, Xiamen University
+* Office Address: 101-5 Building #6, West Xiang'an Campus, Xiamen University
