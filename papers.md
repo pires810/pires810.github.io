@@ -25,7 +25,7 @@ layout: default
 [21] Y. Chen, W. Yu, X. Sun, L. Wan, Y. Tao, and X. Xu, "Environment-aware communication channel quality prediction for underwater acoustic transmissions: A machine learning method," Applied Acoustics, vol. 181, Oct. 2021. [https://doi.org/10.1016/j.apacoust.2021.108128](https://doi.org/10.1016/j.apacoust.2021.108128)
 
 [20] Y. Chen, K. Zheng, X. Fang, L. Wan, and X. Xu, "QMCR: A Q-Learning-Based Multi-Hop Cooperative Routing Protocol for Underwater Acoustic Sensor Networks," 
-China Communications, vol. 18, no. 8, pp. 224-236, 2021.
+China Communications, vol. 18, no. 8, pp. 224-236, 2021. [https://doi.org/10.23919/JCC.2021.08.016](https://doi.org/10.23919/JCC.2021.08.016)
 
 [19] Y. Chen, Y. Tang, X. Fang, L. Wan, Y. Tao and X. Xu, "PB-ACR: Node Payload Balanced Ant Colony Optimal Cooperative Routing for Multi-Hop Underwater Acoustic Sensor Networks," IEEE Access, vol. 9, pp. 57165-57178, 2021. [doi:10.1109/ACCESS.2021.3072283.](https://doi.org/10.1109/ACCESS.2021.3072283)
 
