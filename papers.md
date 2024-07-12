@@ -8,6 +8,8 @@ layout: default
 ' * ' corresponding author.
 
 ## Journal papers
+[28] L. Wan\* and M. Zhao, "Receiver Enhancement for Differentially Encoded Underwater Acoustic OFDM Incorporating Amplitude and Phase Mismatches," IEEE Journal of Oceanic Engineering, vol. 49, no. 2, pp. 553-565, Apr. 2024.[https://doi.org/10.1109/JOE.2023.3323050](https://doi.org/10.1109/JOE.2023.3323050)
+
 [27] G. Qiao, X. Qiang, L. Wan\*, and H. Jia, "Energy Leakage in OFDM Sparse Channel Estimation: the Drawback of OMP and the Application of Image Deblurring," Digital Communications and Networks, 2023. [https://10.1016/j.dcan.2023.08.003](https://doi.org/10.1016/j.dcan.2023.08.003)
 
 [26] X. Zhu, Y. Chen\*, L. Wan\*, W. Huang, G. Lu, and X. Xu, "Dynamic layered routing protocols based on BP-NN for underwater acoustic sensor networks," Applied Acoustics, vol. 211, Aug. 2023. [https://doi.org/10.1016/j.apacoust.2023.109454](https://doi.org/10.1016/j.apacoust.2023.109454)
@@ -64,7 +66,14 @@ China Communications, vol. 18, no. 8, pp. 224-236, 2021.
 [1] L. Wan, Z.-H. Wang, S. Zhou, T.C. Yang, and Z. Shi, "Performance Comparison of Doppler Scale Estimation Methods for Underwater Acoustic OFDM," Journal of Electrical and Computer Engineering, vol. 2012, Article ID 703243, 11 pages, 2012. [http://dx.doi.org/10.1155/2012/703243](http://dx.doi.org/10.1155/2012/703243).
 
 ## Conference papers
-[12] Z. Zhu, L. Wan, E. Cheng and F. Xu, "Bidirectional Equalization Receiver for Underwater Acoustic OFDM Systems Using Frequency-Domain Oversampling," 2022 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Xi'an, China, 2022, pp. 1-6. [10.1109/ICSPCC55723.2022.9984479](https://doi.org/10.1109/ICSPCC55723.2022.9984479)
+[15] S. Xu, L. Wan*, Y. Chen and E. Cheng, "Deep Learning Based Impulsive Noise Mitigation for Underwater Acoustic OFDM Systems,"  in Proc. of the 17th International Conference on Underwater Networks & Systems
+ (WUWNet'23), Shenzhen, China, Nov. 2023. [10.1145/3631726.3631729](https://doi.org/10.1145/3631726.3631729).
+
+[14] Z. Wang, L. Wan*, Y. Chen and E. Cheng, "Two-Step Interfrequency Interference Cancelation for Single-Carrier Underwater Acoustic Communications in Time-Varying Channels," 2023 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Zhengzhou, China, 2023, pp. 1-5. [10.1109/ICSPCC59353.2023.10400364](https://doi.org/10.1109/ICSPCC59353.2023.10400364)
+
+[13] Y. Zhao, L. Wan*, Y. Chen, E. Cheng, F. Xu and L. Liang, "Power Allocation for Non-Coherent Multi-Carrier FSK Underwater Acoustic Communication Systems with Uneven Transmission Source Level," 2022 14th International Conference on Signal Processing Systems (ICSPS), Jiangsu, China, 2022, pp. 616-622. [10.1109/ICSPS58776.2022.00114](https://doi.org/10.1109/ICSPS58776.2022.00114)
+
+[12] Z. Zhu, L. Wan*, E. Cheng and F. Xu, "Bidirectional Equalization Receiver for Underwater Acoustic OFDM Systems Using Frequency-Domain Oversampling," 2022 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Xi'an, China, 2022, pp. 1-6. [10.1109/ICSPCC55723.2022.9984479](https://doi.org/10.1109/ICSPCC55723.2022.9984479)
 
 [11] Y. Zhao, L. Wan*, E. Cheng and F. Xu, "Adaptive Power Allocation for Non-coherent FSK in Time-varying Underwater Acoustic Communication Channels," 2022 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Xi'an, China, 2022, pp. 1-6. [10.1109/ICSPCC55723.2022.9984454](https://doi.org/10.1109/ICSPCC55723.2022.9984454)
 
