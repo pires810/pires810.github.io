@@ -8,7 +8,7 @@ layout: default
 ' * ' corresponding author.
 
 ## Journal papers
-[28] L. Wan\* and M. Zhao, "Receiver Enhancement for Differentially Encoded Underwater Acoustic OFDM Incorporating Amplitude and Phase Mismatches," IEEE Journal of Oceanic Engineering, vol. 49, no. 2, pp. 553-565, Apr. 2024. [https://doi.org/10.1109/JOE.2023.3323050](https://doi.org/10.1109/JOE.2023.3323050)
+[28] L. Wan\* and M. Zhao, "Receiver Enhancement for Differentially Encoded Underwater Acoustic OFDM Incorporating Amplitude and Phase Mismatches," IEEE Journal of Oceanic Engineering, vol. 49, no. 2, pp. 553-565, Apr. 2024.   [https://doi.org/10.1109/JOE.2023.3323050](https://doi.org/10.1109/JOE.2023.3323050)
 
 [27] G. Qiao, X. Qiang, L. Wan\*, and H. Jia, "Energy Leakage in OFDM Sparse Channel Estimation: the Drawback of OMP and the Application of Image Deblurring," Digital Communications and Networks, 2023. [https://10.1016/j.dcan.2023.08.003](https://doi.org/10.1016/j.dcan.2023.08.003)
 
