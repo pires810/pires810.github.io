@@ -9,6 +9,4 @@ Under graduate course
 
 Graduate course
  * Underwater Acoustic Communications Technologies
- * Instructions on Scientific Paper Writing
- * Literature Search and English Scientific Paper Writing
 
