@@ -7,7 +7,9 @@ layout: default
 
 * IEEE Senior Member
 
-* Associate Editor: IEEE Open Journal of Communications Society, Journal of Marine Science and Engineering
+* Associate Editor: IEEE Open Journal of Communications Society
+
+* Editorial Board Member: Journal of Marine Science and Engineering
 
 * Associate Editor: Digital Ocean and Underwater Warfare (Journal in Chinese)
 
