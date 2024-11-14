@@ -1,20 +1,22 @@
 ---
 title: 
 summary: "About this page."
-date: 2024-7-12
+date: 2024-11-24
 layout: default
 ---
 
 ' * ' corresponding author.
 
 ## Journal papers
+[29] L. Wan, S. Deng, Y. Chen\*, and E. Cheng, "Sparse channel estimation for underwater acoustic OFDM systems with super-nested pilot design," Signal Processing, vol. 227, 2025. [https://doi.org/10.1016/j.sigpro.2024.109709](https://doi.org/10.1016/j.sigpro.2024.109709)
+
 [28] L. Wan\* and M. Zhao, "Receiver Enhancement for Differentially Encoded Underwater Acoustic OFDM Incorporating Amplitude and Phase Mismatches," IEEE Journal of Oceanic Engineering, vol. 49, no. 2, pp. 553-565, Apr. 2024.   [https://doi.org/10.1109/JOE.2023.3323050](https://doi.org/10.1109/JOE.2023.3323050)
 
-[27] G. Qiao, X. Qiang, L. Wan\*, and H. Jia, "Energy Leakage in OFDM Sparse Channel Estimation: the Drawback of OMP and the Application of Image Deblurring," Digital Communications and Networks, 2023. [https://10.1016/j.dcan.2023.08.003](https://doi.org/10.1016/j.dcan.2023.08.003)
+[27] G. Qiao, X. Qiang, L. Wan\*, and H. Jia, "Energy Leakage in OFDM Sparse Channel Estimation: the Drawback of OMP and the Application of Image Deblurring," Digital Communications and Networks, vol. 10, no. 5, pp. 1280-1288, Oct. 2024. [https://10.1016/j.dcan.2023.08.003](https://doi.org/10.1016/j.dcan.2023.08.003)
 
 [26] X. Zhu, Y. Chen\*, L. Wan\*, W. Huang, G. Lu, and X. Xu, "Dynamic layered routing protocols based on BP-NN for underwater acoustic sensor networks," Applied Acoustics, vol. 211, Aug. 2023. [https://doi.org/10.1016/j.apacoust.2023.109454](https://doi.org/10.1016/j.apacoust.2023.109454)
 
-[25] L. Wan, J. Zhu, E. Cheng and Z. Xu, "Joint CFO, Gridless Channel Estimation and Data Detection for Underwater Acoustic OFDM Systems," IEEE Journal of Oceanic Engineering, vol. 47, no. 4, pp. 1215-1230, Oct. 2022. [https://doi.org/10.1109/JOE.2022.3162025](https://doi.org/10.1109/JOE.2022.3162025)
+[25] L. Wan, J. Zhu\*, E. Cheng and Z. Xu, "Joint CFO, Gridless Channel Estimation and Data Detection for Underwater Acoustic OFDM Systems," IEEE Journal of Oceanic Engineering, vol. 47, no. 4, pp. 1215-1230, Oct. 2022. [https://doi.org/10.1109/JOE.2022.3162025](https://doi.org/10.1109/JOE.2022.3162025)
 
 [24] J. Guo, S. Song, J. Liu, L. Wan, Y. Zhao and G. Han, "An Efficient Medium Access Control Scheme Based on MC-CDMA for Mobile Underwater Acoustic Networks," IEEE Network, vol. 36, no. 3, pp. 167-173, May/June 2022. [https://doi.org/10.1109/MNET.123.2100332](https://doi.org/10.1109/MNET.123.2100332)
 
