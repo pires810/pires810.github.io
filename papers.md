@@ -8,6 +8,8 @@ layout: default
 ' * ' corresponding author.
 
 ## Journal papers
+[30] L. Wan, S. Xu, Y. Diao, J. Liu*, Y. Chen and E. Cheng, "Impulsive Noise Mitigation for Underwater Acoustic OFDM Systems Based on 1DCNN With Multiattention Mechanism and Transfer Learning," IEEE Internet of Things Journal, vol. 12, no. 8, pp. 9917-9926, April 2025. [https://doi.org/10.1109/JIOT.2024.3509143](https://doi.org/10.1109/JIOT.2024.3509143)
+
 [29] L. Wan, S. Deng, Y. Chen\*, and E. Cheng, "Sparse channel estimation for underwater acoustic OFDM systems with super-nested pilot design," Signal Processing, vol. 227, 2025. [https://doi.org/10.1016/j.sigpro.2024.109709](https://doi.org/10.1016/j.sigpro.2024.109709)
 
 [28] L. Wan\* and M. Zhao, "Receiver Enhancement for Differentially Encoded Underwater Acoustic OFDM Incorporating Amplitude and Phase Mismatches," IEEE Journal of Oceanic Engineering, vol. 49, no. 2, pp. 553-565, Apr. 2024.   [https://doi.org/10.1109/JOE.2023.3323050](https://doi.org/10.1109/JOE.2023.3323050)
@@ -68,6 +70,10 @@ China Communications, vol. 18, no. 8, pp. 224-236, 2021. [https://doi.org/10.239
 [1] L. Wan, Z.-H. Wang, S. Zhou, T.C. Yang, and Z. Shi, "Performance Comparison of Doppler Scale Estimation Methods for Underwater Acoustic OFDM," Journal of Electrical and Computer Engineering, vol. 2012, Article ID 703243, 11 pages, 2012. [http://dx.doi.org/10.1155/2012/703243](http://dx.doi.org/10.1155/2012/703243).
 
 ## Conference papers
+[17] Y. Diao, L. Wan*, Y. Chen and E. Cheng, "Constellation Optimization Based on DDPG for Cayley Differential Unitary Space-Time Code," 2024 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Bali, Indonesia, 2024, pp. 1-5. [10.1109/ICSPCC62635.2024.10770420](https://doi.org/10.1109/ICSPCC62635.2024.10770420).
+
+[16] X. Lin, L. Wan*, Y. Chen and E. Cheng, "Bit-Loading for Non-Coherent MFSK Underwater Acoustic Communication Systems with Uneven Transmission Source Level," 2024 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), Bali, Indonesia, 2024, pp. 1-5. [10.1109/ICSPCC62635.2024.10770542](https://doi.org/10.1109/ICSPCC62635.2024.10770542).
+
 [15] S. Xu, L. Wan*, Y. Chen and E. Cheng, "Deep Learning Based Impulsive Noise Mitigation for Underwater Acoustic OFDM Systems,"  in Proc. of the 17th International Conference on Underwater Networks & Systems 
  (WUWNet'23), Shenzhen, China, Nov. 2023, pp. 1-5. [10.1145/3631726.3631729](https://doi.org/10.1145/3631726.3631729).
 
